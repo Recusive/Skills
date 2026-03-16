@@ -1,6 +1,6 @@
 # Skills
 
-Agent skills for Claude Code, Cursor, Codex, and other AI coding assistants.
+Agent skills for [Orbit](https://github.com/Recusive), Claude Code, Cursor, Codex, and other AI coding assistants.
 
 ## Install
 
