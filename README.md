@@ -17,14 +17,13 @@ npx skills add Recusive/Skills --skill problem-clarifier
 | Skill | Description |
 |-------|-------------|
 | **[component-test](./component-test)** | Generate production-grade Vitest tests from HTML elements captured in DevTools |
+| **[fazxes](./fazxes)** | Production scope gatekeeper — catches buried scope reductions before plans reach audit |
 | **[mosaic](./mosaic)** | Create in-app stress tests that drive the real app pipeline from browser DevTools — no mocks |
 | **[problem-clarifier](./problem-clarifier)** | Clarify problems and bugs through a reflect-back interview before planning |
 | **[stress-test](./stress-test)** | In-app stress tests via DevTools console — real state, real APIs, real UI |
 | **[test-engineer](./test-engineer)** | Write meaningful tests for TypeScript/React (Vitest) and Rust (cargo test) |
 | **[vercel-react-best-practices](./vercel-react-best-practices)** | React and Next.js performance optimization guidelines from Vercel Engineering |
-| **[web-animation-best-practices](./web-animation-best-practices.md)** | Comprehensive web animation guidelines for performant, accessible animations |
 | **[web-design-guidelines](./web-design-guidelines)** | Review UI code for Web Interface Guidelines compliance and accessibility |
-| **[React-best-practice](./React-best-practice.md)** | React best practices from Vercel Engineering |
 
 ## Creating a Skill
 
