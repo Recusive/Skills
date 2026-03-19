@@ -24,6 +24,19 @@ npx skills add Recusive/Skills --skill problem-clarifier
 | **[test-engineer](./test-engineer)** | Write meaningful tests for TypeScript/React (Vitest) and Rust (cargo test) |
 | **[vercel-react-best-practices](./vercel-react-best-practices)** | React and Next.js performance optimization guidelines from Vercel Engineering |
 | **[web-design-guidelines](./web-design-guidelines)** | Review UI code for Web Interface Guidelines compliance and accessibility |
+| | |
+| **Orbit Audit Suite** | **10 expert audit lenses + orchestrator** |
+| **[audit-as-design-eng](./audit-as-design-eng)** | Audit through the eyes of a Design Engineer — visual hierarchy, tokens, dark mode, states, animation |
+| **[audit-as-ux-eng](./audit-as-ux-eng)** | Audit through the eyes of a UX Engineer — user journeys, mental models, discoverability, error recovery |
+| **[audit-as-frontend-eng](./audit-as-frontend-eng)** | Audit through the eyes of a Frontend Engineer — React patterns, Zustand, type safety, re-renders, bundle |
+| **[audit-as-backend-eng](./audit-as-backend-eng)** | Audit through the eyes of a Backend Engineer — Rust error handling, concurrency, resource lifecycle, IPC |
+| **[audit-as-structural-eng](./audit-as-structural-eng)** | Audit through the eyes of a Structural Architect — coupling, dependencies, layer violations, abstractions |
+| **[audit-as-repo-maintainer](./audit-as-repo-maintainer)** | Audit through the eyes of a Repo Maintainer — conventions, barrel exports, naming, code reuse, lint |
+| **[audit-as-prod-readiness](./audit-as-prod-readiness)** | Audit for Production Readiness — E2E flow, env parity, error recovery, data integrity, rollback |
+| **[audit-as-dx-eng](./audit-as-dx-eng)** | Audit through the eyes of a DX Engineer — error messages, CLI ergonomics, defaults, keyboard, config |
+| **[audit-as-perf-eng](./audit-as-perf-eng)** | Audit through the eyes of a Performance Engineer — memory, IPC latency, streaming, long-session stability |
+| **[audit-as-a11y-eng](./audit-as-a11y-eng)** | Audit for Accessibility — screen readers, keyboard nav, ARIA, focus management, contrast |
+| **[full-audit](./full-audit)** | Run all 10 lenses sequentially into one document — plan mode or repo mode |
 
 ## Creating a Skill
 
