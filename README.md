@@ -16,6 +16,7 @@ npx skills add Recusive/Skills --skill problem-clarifier
 
 | Skill | Description |
 |-------|-------------|
+| **[blueprint-first](./blueprint-first)** | Guide any engineering task like a senior engineer — study first, plan properly, implement with discipline. 22 reference guides covering bug fixes, refactoring, investigation, architecture tracing, and more |
 | **[component-test](./component-test)** | Generate production-grade Vitest tests from HTML elements captured in DevTools |
 | **[fazxes](./fazxes)** | Production scope gatekeeper — catches buried scope reductions before plans reach audit |
 | **[mosaic](./mosaic)** | Create in-app stress tests that drive the real app pipeline from browser DevTools — no mocks |
