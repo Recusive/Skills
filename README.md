@@ -23,6 +23,7 @@ npx skills add Recusive/Skills --skill problem-clarifier
 | **[problem-clarifier](./problem-clarifier)** | Clarify problems and bugs through a reflect-back interview before planning |
 | **[stress-test](./stress-test)** | In-app stress tests via DevTools console — real state, real APIs, real UI |
 | **[test-engineer](./test-engineer)** | Write meaningful tests for TypeScript/React (Vitest) and Rust (cargo test) |
+| **[ui](./ui)** | Build user interfaces with Tailwind CSS. 39 design guidelines covering components, typography, surfaces, shadows, dark mode, and more. Includes a variant-comparison workflow for exploratory design |
 | **[vercel-react-best-practices](./vercel-react-best-practices)** | React and Next.js performance optimization guidelines from Vercel Engineering |
 | **[web-design-guidelines](./web-design-guidelines)** | Review UI code for Web Interface Guidelines compliance and accessibility |
 | | |
